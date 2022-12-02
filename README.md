@@ -1,7 +1,7 @@
 
-Deploiement de l'Application
+##  Deploiement de l'Application
 
-Tout d'abord, j'ai créé le fichier indexhtml avec le code source.
+Tout d'abord, j'ai créé le fichier index.html avec le code source.
 
 Ensuite j'ai créé le repository git https://github.com/Tenbra/MEP06.git
 
